@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  background: linear-gradient(#50005e, #e30b89);
+  height: 670px;
+}
+
+.logo img {
+  width: 50%;
+}
+
+.logo {
+  text-align: center;
+  padding-top: 280px;
+}
+
+.main-view {
+  /*background-image: url(../assets/img/trafico.jpg);
+  background-size: cover;
+  background-position: center 92%;
+  background-repeat: no-repeat;
+  min-height: 640px;
+  margin-bottom: 0;*/
+  background: #000;
+  height: 670px;
+
+}
+
+.main-view img {
+  width: 50%;
+}
